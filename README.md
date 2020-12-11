@@ -1,0 +1,1 @@
+# rubocop-bug-testing
